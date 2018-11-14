@@ -11,8 +11,8 @@ $apiKey = $config['apiKey'];
 
 // reply name
 $botSender = new Sender([
-    'name' => '1CCRM',
-    'avatar' => 'https://rarus.ru/favicon.ico',
+    'name' => 'Мостострой 11',
+    'avatar' => '',
 ]);
 
 
